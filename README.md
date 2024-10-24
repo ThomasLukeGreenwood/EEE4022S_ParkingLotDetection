@@ -1,4 +1,4 @@
-# Parking Lot detection with an esp32
+# Parking Lot detection: The development of a vision based parking lot detector
 
 This projecct compares various algorythms to deploy the optimal parking lot detector on UCT's campus.
 
