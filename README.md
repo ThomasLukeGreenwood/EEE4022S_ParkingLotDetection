@@ -2,7 +2,7 @@
 <div align="center">
 
 ## Introduction  
-This project compares various models to deploy the optimal parking lot detector on UCT's campus.
+This project compares various models and hardware to deploy the optimal parking lot detector on UCT's campus.
 
 It compares FOMO and YOLOv8 running as edge and cloud based devices on ESP32-CAM, Raspberry Pi 4b and Laptop with 3050 GPU.
 
