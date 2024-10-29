@@ -24,6 +24,10 @@ The link to the google drive containing the models is [here](https://drive.googl
 ![Inference Time RPI](https://github.com/user-attachments/assets/e79fa0ae-4d54-4c87-892f-431203370a57)
 <div align="center">The Inference Time of the Raspberry Pi<div>
 
+![l](https://github.com/user-attachments/assets/c43a4e2d-06ab-4d24-8340-fb23fa2944c9)
+
+<div align="center">Results From Test Set<div>
+
 ## Conclusion
 
 The raspberry Pi 4 running YOLOv8n results in the best preformance in terms of balance of accuracy, power consumption, bandwidth use, and sever load.
