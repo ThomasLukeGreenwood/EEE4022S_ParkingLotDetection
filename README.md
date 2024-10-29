@@ -6,7 +6,11 @@ This project compares various models to deploy the optimal parking lot detector 
 
 It compares FOMO and YOLOv8 running as edge and cloud based devices on ESP32-CAM, Raspberry Pi 4b and Laptop with 3050 GPU.
 
-The link the the roboflow dataset is [here](https://app.roboflow.com/parkinglotdataset/mergedparkingdataset/16)<div>
+The link the the roboflow dataset is [here](https://app.roboflow.com/parkinglotdataset/mergedparkingdataset/16)
+
+The link to the google drive containing the models is [here][https://drive.google.com/drive/folders/19S4D6c7Q1m6xjuM8bxjOBioV1oVX5XnU?usp=drive_link]
+<div>
+
 
 
 ![Structure](https://github.com/user-attachments/assets/bbf294a9-e7f5-46d2-a8d2-d93d0a577348)
