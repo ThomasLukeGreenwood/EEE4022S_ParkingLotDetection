@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>   
+    <meta charset="UTF-8">
+    <title>Static Image</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body {
+        background-color:white ;
+    }
+    </style> 
+</head>
+<body>
+    <h1 style = "color: black;text-align:center;"> UCT Parking</h1>
+    <img src="{{ url_for('static', filename='images/static_image.jpg') }}" alt="Static Image",width="150", height="400", class="center">
+    <br>
+    
+    <link rel="stylesheet" href="{{ url_for('static', filename='CSS/styles.css') }}">
+    <div>
+        <h1 style= "color: black;text-align:center;">Parking Avaliable: <span id="number">{{ number }}</span></h1>
+        <button id="update-button">Update</button>
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            $('#update-button').click(function() {
+                $.getJSON('/update_number', function(data) {
+                    $('#number').text(data.number);
+                });
+            });
+        });
+    </script>
+    <a href="{{ url_for('dynamic') }}" style="color: blue; text-align: center;">See Classification</a>
+</body>
+</html>
