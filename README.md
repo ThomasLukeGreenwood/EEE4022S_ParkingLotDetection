@@ -12,7 +12,7 @@ The Stucture of Cloud vs Edge Processing
 
 
 ![AccuracyResults](https://github.com/user-attachments/assets/9faee921-4a49-4229-8ccd-dbde98d9c393)
-The Accuracy on Different Models
+<div align="center">The Accuracy on Different Models<div>
 
 
 ![Inference Time RPI](https://github.com/user-attachments/assets/e79fa0ae-4d54-4c87-892f-431203370a57)
