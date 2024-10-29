@@ -7,16 +7,16 @@ It compares FOMO and YOLOv8 running as edge and cloud based devices.
 The link the the roboflow dataset is [here](https://app.roboflow.com/parkinglotdataset/mergedparkingdataset/16)
 
 
-![Structure](https://github.com/user-attachments/assets/bbf294a9-e7f5-46d2-a8d2-d93d0a577348)
-The Stucture of Cloud vs Edge Processing
+<div align="center">![Structure](https://github.com/user-attachments/assets/bbf294a9-e7f5-46d2-a8d2-d93d0a577348)<div>
+<div align="center">The Stucture of Cloud vs Edge Processing<div>
 
 
 ![AccuracyResults](https://github.com/user-attachments/assets/9faee921-4a49-4229-8ccd-dbde98d9c393)
 <div align="center">The Accuracy on Different Models<div>
 
 
-![Inference Time RPI](https://github.com/user-attachments/assets/e79fa0ae-4d54-4c87-892f-431203370a57)
-The Inference Time of the Raspberry Pi
+<div align="center">![Inference Time RPI](https://github.com/user-attachments/assets/e79fa0ae-4d54-4c87-892f-431203370a57)<div>
+<div align="center">The Inference Time of the Raspberry Pi<div>
 
 Conclusion
 
