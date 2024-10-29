@@ -8,7 +8,7 @@ It compares FOMO and YOLOv8 running as edge and cloud based devices on ESP32-CAM
 
 The link the the roboflow dataset is [here](https://app.roboflow.com/parkinglotdataset/mergedparkingdataset/16)
 
-The link to the google drive containing the models is [here][https://drive.google.com/drive/folders/19S4D6c7Q1m6xjuM8bxjOBioV1oVX5XnU?usp=drive_link]
+The link to the google drive containing the models is [here](https://drive.google.com/drive/folders/19S4D6c7Q1m6xjuM8bxjOBioV1oVX5XnU?usp=drive_link)
 <div>
 
 
