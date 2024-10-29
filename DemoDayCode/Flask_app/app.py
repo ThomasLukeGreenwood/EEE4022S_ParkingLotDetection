@@ -44,8 +44,8 @@ def makePredictions():
     cap.release()
     number = results[0].boxes.cls.tolist().count("empty")
     names = model.names
-    car_id = list(names)[list(names.values()).index('empty')]
-    number = results[0].boxes.cls.tolist().count(car_id)
+    empty_id = list(names)[list(names.values()).index('empty')]
+    number = results[0].boxes.cls.tolist().count(empty_id)
     return number
     
 if __name__ == '__main__':
